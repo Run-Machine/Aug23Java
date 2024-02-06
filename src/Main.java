@@ -5,5 +5,7 @@ import java.util.function.*;
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
+        System.out.println("Adding to test git");
+        System.out.println("Adding agin to test git");
     }
 }
